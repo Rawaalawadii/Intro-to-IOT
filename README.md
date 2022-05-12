@@ -8,7 +8,7 @@ In this course it will contains 4 chapters, at the end of coures will have an Ov
 | weeks  | topics |
 | ------------- | ------------- |
 | week one | Basics of IOT  |
-| 2end week | internet of things Protocols - Data Center|
+| 2end week | Internet of things Protocols - Data Center|
 | 3end week | The requirements of the Internet of things in workplaces  |
 | 4end week | Projects  |
 
@@ -101,10 +101,10 @@ To Present a new Introduction in Network and DataCenter
 
 | Days   | Topics  |
 | ------------- | ------------- |
-| Day 1 | Intro to network - network and IOT - simulation with Cisco Packet tracer |
-| Day 2 |  Review the simulation with Cisco Packet tracer. |
-| Day 3 |  Packet-switching versus circuit-switching. |
-| Day 4 |  |
+| Day 1 | Intro to network - network and IOT - simulation with Cisco Packet tracer  |
+| Day 2 |  Review the simulation with Cisco Packet tracer.  Packet-switching versus circuit-switching.  |
+| Day 3 | IOT Network Mangment - intro to IOT System architecture - IOT & IP |
+| Day 4 | Connectivity Of smart Object - data Rate - Range |
 | Last day  | Projects  |
 
 
@@ -144,16 +144,17 @@ To Present a new IOT System Architecture and Network Design
 
 | Days   | Topics  |
 | ------------- | ------------- |
-| Day 1 | what Systen Architecture ? "Framworks and concepts "  - Components |
-| Day 2 | IOT Protocols  |
-| Day 3 |   |
+| Day 1 | what Systen Architecture ? "Framworks and concepts "  - Components - network Layers|
+| Day 2 | IOT Protocols - TCP / UDP - Https /https  |
+| Day 3 |  MQTTP - MQTTP Project  |
 | Day 4 |  |
 | Last day  | Projects  |
 
 
 
-
-
+Project
+ 
+IOT Project by using (MQTT Protocols). 
 
 
 The last week 
@@ -162,11 +163,25 @@ The last week
 
 | Days   | Topics  |
 | ------------- | ------------- |
-| Day 1 |  |
-| Day 2 | |
-| Day 3 |   |
-| Day 4 |  |
+| Day 1 |  Review the Projects - More Exsampls for IOT Projects |
+| Day 2 | New Project team - Soft skills  |
+| Day 3 | Working on Projects  |
+| Day 4 |  Working on Projects |
 | Last day  | Projects  |
+
+
+Project
+ Requirements : 
+ Bulid IOT Project 
+ - HoemGetway ( autonctions - add at least basics of passowrd security )  
+ - MQTT Protocol 
+ - used at least two MCU - SBC  
+ 
+ 
+ 
+
+
+
 
 
 
