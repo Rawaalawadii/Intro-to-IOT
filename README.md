@@ -7,7 +7,7 @@ In this course it will contains 4 chapters, at the end of coures will have an Ov
 
 | weeks  | topics |
 | ------------- | ------------- |
-| week one | Basics of IOT  |
+| week one | [Basics of IOT ](https://github.com/Rawaalawadii/Introduction-to-IOT/blob/main/README.md) |
 | 2end week | Internet of things Protocols - Data Center|
 | 3end week | The requirements of the Internet of things in workplaces  |
 | 4end week | Projects  |
@@ -28,8 +28,8 @@ To Introduce IOT and Provied an insight into new possibilities  and challenges w
 
 | Days   | Topics  |
 | ------------- | ------------- |
-| Day 1 | Whats IOT ? - History of IOT - New Possibilities - Exsample of IOT APPlication  |
-| Day 2 |  Digital Logic  - Elements of IOT - simulation SBC |
+| Day 1 | [Whats IOT ? - History of IOT - New Possibilities - Exsample of IOT APPlication](https://github.com/Rawaalawadii/Introduction-to-IOT/blob/main/README.md)  |
+| Day 2 |  [Digital Logic  - Elements of IOT - simulation SBC](https://github.com/Rawaalawadii/Introduction-to-IOT/blob/main/README.md) |
 | Day 3 |  Review HW - simulation with Cisco Packet tracer  |
 | Day 4 |  Review - Praper for Fainl Bisics project |
 | Last day  | Project  |
