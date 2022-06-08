@@ -30,9 +30,9 @@ To Introduce IOT and Provied an insight into new possibilities  and challenges w
 | ------------- | ------------- |
 | Day 1 | [Whats IOT ? - History of IOT - New Possibilities - Exsample of IOT APPlication](https://github.com/Rawaalawadii/Introduction-to-IOT/blob/main/README.md)  |
 | Day 2 |  [Digital Logic  - Elements of IOT - simulation SBC](https://github.com/Rawaalawadii/Introduction-to-IOT/blob/main/README.md) |
-| Day 3 |  Review HW - simulation with Cisco Packet tracer  |
+| Day 3 |  [Review HW - simulation with Cisco Packet tracer ](https://github.com/Rawaalawadii/Review-HW---simulation-CiscoPackettracer-) |
 | Day 4 |  Review - Praper for Fainl Bisics project |
-| Last day  | Project  |
+| Last day  | [Project](https://github.com/Rawaalawadii/Project-weekone-/blob/main/README.md)  |
 
 
 
@@ -101,11 +101,11 @@ To Present a new Introduction in Network and DataCenter
 
 | Days   | Topics  |
 | ------------- | ------------- |
-| Day 1 | Intro to network - network and IOT - simulation with Cisco Packet tracer  |
-| Day 2 |  Review the simulation with Cisco Packet tracer.  Packet-switching versus circuit-switching.  |
-| Day 3 | IOT Network Mangment - intro to IOT System architecture - IOT & IP |
-| Day 4 | Connectivity Of smart Object - data Rate - Range |
-| Last day  | Projects  |
+| Day 1 | [Intro to network - network and IOT - simulation with Cisco Packet tracer ](https://github.com/Rawaalawadii/Intro-to-network) |
+| Day 2 |  https://github.com/Rawaalawadii/-internet-protocol-stack  |
+| Day 3 |[ IOT Network Mangment - intro to IOT System architecture - IOT & IP](https://github.com/Rawaalawadii/Intro-to-cloud) |
+| Day 4 | [Connectivity Of smart Object - data Rate - Range ](https://github.com/Rawaalawadii/IOT-blocks)|
+| Last day  | [Projects](https://github.com/Rawaalawadii/Project-weektwo/edit/main/README.md)  |
 
 
 Project
