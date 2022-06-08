@@ -144,11 +144,9 @@ To Present a new IOT System Architecture and Network Design
 
 | Days   | Topics  |
 | ------------- | ------------- |
-| Day 1 | what Systen Architecture ? "Framworks and concepts "  - Components - network Layers|
-| Day 2 | IOT Protocols - TCP / UDP - Https /https  |
-| Day 3 |  MQTTP - MQTTP Project  |
-| Day 4 |  |
-| Last day  | Projects  |
+| Day 1 |https://github.com/Rawaalawadii/IOT-Protocols---TCP-UDP---Https-https-/blob/main/README.md |
+| Day 2-3 |[ IOT Protocols - TCP / UDP - Https /https ](https://github.com/Rawaalawadii/IOT-Protocols---TCP-UDP---Https-https-/blob/main/README.md) |
+| Day 4 |  Projects |
 
 
 
@@ -160,22 +158,6 @@ IOT Project by using (MQTT Protocols).
 The last week 
 
 
-
-| Days   | Topics  |
-| ------------- | ------------- |
-| Day 1 |  Review the Projects - More Exsampls for IOT Projects |
-| Day 2 | New Project team - Soft skills  |
-| Day 3 | Working on Projects  |
-| Day 4 |  Working on Projects |
-| Last day  | Projects  |
-
-
-Project
- Requirements : 
- Bulid IOT Project 
- - HoemGetway ( autonctions - add at least basics of passowrd security )  
- - MQTT Protocol 
- - used at least two MCU - SBC  
  
  
  
